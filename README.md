@@ -1,3 +1,7 @@
+## Management System
+
+개인 스터디 :: 고객 관리 시스템(Management systme)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
